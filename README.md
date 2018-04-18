@@ -3,7 +3,7 @@ This is for test!1
 TravisCI for golang
 ====
 
-[![Build Status](https://travis-ci.org/tcnksm-sample/travis-golang.svg?branch=master)](https://travis-ci.org/tcnksm-sample/travis-golang)
+[![Build Status](https://travis-ci.org/Shashwatsh/travis-golang.svg?branch=master)](https://travis-ci.org/tcnksm-sample/travis-golang)
 
 This is sample of releasing golang project from [TravisCI](https://travis-ci.org)
 
